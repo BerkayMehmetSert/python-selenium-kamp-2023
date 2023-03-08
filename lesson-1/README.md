@@ -50,8 +50,6 @@ print(x) # 10
 
 `or` : Veya
 
-`not` : Değil
-
 ## Karar Yapıları
 
 `if` : Eğer
