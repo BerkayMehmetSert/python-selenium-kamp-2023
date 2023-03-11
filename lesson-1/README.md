@@ -2,7 +2,7 @@
 
 `print("..")` : Konsol çıktısı verir.
 
-## Değişken tanımlamam
+## Değişken tanımlama
 
 `x = 5` : x değişkenine 5 değerini atar.
 
